@@ -1,0 +1,22 @@
+body { 
+	background:crimson; 
+}
+
+h1 {
+	text-align:center; font-size:80px; 
+	position:relative; margin-top:20%; 
+	color:black; 
+	font-family: 'Lobster', cursive;
+	text-shadow: 4px 4px 2px rgba(150, 150, 150, 1);
+}
+
+button {
+	position:relative; display:block;
+	margin:auto;
+	font-size:28px; padding:10px 30px;
+	border-radius:8px;
+	color:white; background:black;	
+	font-family: 'Lobster', cursive;
+}
+
+
